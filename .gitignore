@@ -2,4 +2,6 @@
 /2/.vs/*
 /3/.vs/*
 /.vs/*
-/portfolio-template-main/.vs/*
+.replit
+package-lock.json
+package.json
